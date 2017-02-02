@@ -1,8 +1,8 @@
-set( APPLICATION_NAME       "Nextcloud" )
-set( APPLICATION_SHORTNAME  "Nextcloud" )
+set( APPLICATION_NAME       "RMP Systems" )
+set( APPLICATION_SHORTNAME  "RMPSystems" )
 set( APPLICATION_EXECUTABLE "nextcloud" )
 set( APPLICATION_DOMAIN     "nextcloud.com" )
-set( APPLICATION_VENDOR     "Nextcloud GmbH" )
+set( APPLICATION_VENDOR     "RMP Systems GmbH" )
 set( APPLICATION_UPDATE_URL "https://updates.nextcloud.org/client/" CACHE string "URL for updater" )
 
 set( THEME_CLASS            "NextcloudTheme" )
