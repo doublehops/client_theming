@@ -1,3 +1,4 @@
 build-linux
 .config
 build-win32
+*~
